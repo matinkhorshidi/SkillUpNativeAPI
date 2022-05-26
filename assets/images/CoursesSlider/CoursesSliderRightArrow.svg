@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="49" viewBox="0 0 49 49">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #7209B7;
+        stroke-width: 3px;
+      }
+
+      .cls-1 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="NexrButtonSlider" transform="translate(1.5 1.5)">
+    <path id="Path_38" data-name="Path 38" class="cls-1" d="M64,87A23,23,0,1,0,87,64,23.006,23.006,0,0,0,64,87Z" transform="translate(-64 -64)"/>
+    <path id="Path_39" data-name="Path 39" class="cls-2" d="M216,181.23l13.949-10.615L216,160" transform="translate(-197.788 -147.615)"/>
+  </g>
+</svg>
