@@ -1,2 +1,2 @@
 # SkillUpNative
-SkillUp Project in React Native using Json Files
+SkillUp Project in React Native using API
